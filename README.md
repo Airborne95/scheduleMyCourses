@@ -1,7 +1,7 @@
 # webappDegreePlanning
 
 
-**This project is a work in progress**\
+**This project is a work in progress**
 
 ### Progress
 Thus far web-crawler and web-scraper were developed to test basic functionality. The previously mentioned files were developed rapidly and require refinement before collaborates will be brought on.
