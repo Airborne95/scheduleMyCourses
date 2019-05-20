@@ -1,0 +1,27 @@
+265 Software Development Methods
+275 Software Testing
+310 Human Computer Interaction
+321 Requirements Engineering
+330 Object-Oriented Software Development
+350 Software Architecture and Design
+360 Security Engineering
+371 Software Evolution
+401 Social and Professional Issues
+411 Advanced Methods for Human Computer Interaction
+421 Global Software Engineering
+422 Advanced Software Architecture
+426 Software Quality Engineering
+435 Computer-Supported Cooperative Work
+440 Embedded Systems
+460 Practice of Information Security and Privacy
+461 Network Security
+468 Software System Scalability
+474 Data Mining
+475 Advanced Programming Techniques for Robust Efficient Computing
+480A Topics in Software Engineering
+480B Topics in Software Engineering
+480C Topics in Software Engineering
+480D Topics in Software Engineering
+490 Directed Studies
+498 Honours Thesis
+499 Design Project II
