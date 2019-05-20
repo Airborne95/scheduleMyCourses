@@ -1,1 +1,1 @@
-# webapp-degreePlanning
+# webappDegreePlanning
